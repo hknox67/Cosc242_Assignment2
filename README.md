@@ -1,2 +1,6 @@
-# Cosc242_Assignment2
-This assignment required our student group to successfully organize a series of inputs into an evenly distributed and categorized Red/Black Tree data structure. 
+# COSC242 - Assignment 2
+
+## Group members
+* Connor Dobson - dobco402
+* Hayden Knox - hnoha805
+* Jakub Sawicki - sawja654
